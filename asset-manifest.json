@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Basic-Cart-App-using-Redux-Toolkit/static/css/main.44f8b8b5.css",
+    "main.js": "/Basic-Cart-App-using-Redux-Toolkit/static/js/main.bb7d036f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Basic-Cart-App-using-Redux-Toolkit/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Basic-Cart-App-using-Redux-Toolkit/index.html",
+    "main.44f8b8b5.css.map": "/Basic-Cart-App-using-Redux-Toolkit/static/css/main.44f8b8b5.css.map",
+    "main.bb7d036f.js.map": "/Basic-Cart-App-using-Redux-Toolkit/static/js/main.bb7d036f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Basic-Cart-App-using-Redux-Toolkit/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.bb7d036f.js"
+  ]
+}
