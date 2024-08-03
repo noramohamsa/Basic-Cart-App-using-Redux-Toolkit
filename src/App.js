@@ -10,8 +10,8 @@ function App() {
     <div className="App">
       <Navbarpro />
       <Routes >
-        < Route path='/' element={<Products />} />
-        < Route path='cart' element={<Cart />} />
+        <Route path='/' element={<Products />} />
+        <Route path='cart' element={<Cart />} />
       </Routes>
 
     </div>
